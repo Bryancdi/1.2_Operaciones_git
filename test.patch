@@ -1,0 +1,12 @@
+diff --git a/ruta_b/sl_b.c b/ruta_b/sl_b.c
+index e549ac8..cbacea8 100644
+--- a/ruta_b/sl_b.c
++++ b/ruta_b/sl_b.c
+@@ -38,6 +38,7 @@
+ /* sl version 1.00 : SL runs vomiting out smoke.                             */
+ /*                                              by Toyoda Masashi 1992/12/11 */
+ 
++// HOLAAAA
+ #include <curses.h>
+ #include <signal.h>
+ #include <unistd.h>
